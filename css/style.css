@@ -1,0 +1,283 @@
+
+* {
+    font-family: Sailec;
+    font-style: normal;
+  }
+header
+{
+    position: relative;
+}
+.navbar
+{
+    padding-top: 46px;
+    padding-left: 101px;
+    padding-right: 100px;
+}
+.navbar-nav li
+{
+    padding-left:36px;
+}
+.navbar-nav a{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 120.5%;
+    color:#151442;
+    ;
+}
+.navbar i
+{
+    padding-left:85px;
+}
+main
+{
+margin-top: -94px;
+}
+.banner
+{
+    background-image: url(../img/2.jpg);
+    height: 1050px;
+    top: 0%;
+    width: 100%;
+    background-size: cover;
+    display: flex;
+}
+.banner .container
+{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+}
+.banner h6
+{
+font-size: 14px;
+color: #D2D2D2;
+}
+.banner h1
+{
+color: white;
+font-weight: bold;
+font-size: 80px;
+line-height: 106px;
+}
+.banner p
+{
+    color:#dee2e6;
+}
+.banner-img
+{
+    width: 600px;
+}
+.banner-content
+{
+    padding: 20px;
+}
+.banner-content p
+{
+    color:  #D2D2D2;
+    margin-top: 46px;
+}
+.more-btn
+{
+    margin-top: 98px;
+    margin-right: 52px;
+    border: 1px solid;
+    border-radius: 48px;
+    color: #102522;
+    font-size: 14px;
+    background-color:#C7E1BF;
+    ;
+}
+ .section-two .container
+{
+    padding-bottom: 190px;
+    padding-top: 166px;;
+}
+.title
+{
+    display: flex;
+    justify-content: center;
+}
+.title h3
+{
+font-weight: 500;
+font-size: 80px;
+line-height: 120.5%;
+}
+.title .Shop_Now_btn
+{
+    margin-left: 80px;
+    margin: 40px;
+    background: #E5E5E5;
+    border: 1px solid #102421;
+    box-sizing: border-box;
+    border-radius: 31px;
+}
+.title .Shop_Now_btn i
+{
+    padding-left: 15px;
+}
+.section-two .row
+{
+padding-top:100px;
+}
+.section-two h4
+{
+    color: #151442;
+    font-size: 36px;
+}
+.section-two p
+{
+    color: #8F9095;
+    padding-top: 20px;
+}
+.section-three 
+{
+    background-image: url(../img/Rectangle\ 6.jpg);
+    height:100vh;
+    width: 100%;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+}
+.section-three .container
+{
+    padding: 0px;
+}
+.section-three h1
+{
+font-weight: 500;
+font-size: 68px;
+color: white;
+line-height:96px;
+}
+.section-three h4
+{
+    color: black;
+    font-weight: 500;
+    font-size: 35px;
+    line-height: 60px;
+}
+.quote
+{
+    background:#FFF3F3;
+    padding: 60px;
+}
+.quote .author_details{
+    float: right;
+}
+.section-four .title
+{
+    padding: 100px;;
+}
+
+.section-four .wrapper{
+    width:100%;
+    padding-top: 20px;
+    text-align:center;
+  }
+  .section-four h2{
+    font-family:sans-serif;
+    color:#fff;
+  }
+  .section-four .carousel{
+    width:90%;
+    margin:0px auto;
+  }
+  .section-four .slick-slide{
+    margin:10px;
+  }
+  .carousel h4{
+      padding-top: 50px;
+   
+  }
+  .section-four .wrapper .slick-dots li button:before {
+    font-size:20px;
+    color:white;
+  }
+  .section-four h4
+{
+    color: #151442;
+    font-size: 36px;
+}
+.section-four p
+{
+    color: #8F9095;
+    padding-top: 20px;
+}
+.section-four .Shop_Now{
+    color: white;
+    margin-left: 80px;
+    margin: 40px;
+    background: #102421;
+    border: 1px solid s102421;
+    box-sizing: border-box;
+    border-radius: 31px;
+}
+.title .Shop_Now i
+{
+    padding-left: 15px;
+}
+.section-five .container
+{
+    padding-bottom: 100px;
+    padding-top: 100px;
+}
+.section-five .title
+{
+padding-bottom: 50px;
+}
+  .section-five h6
+  {
+      color: black;
+      padding-top:30px ;
+  }
+
+  footer
+  {
+      background: black;
+      
+  }
+  footer .container
+  {
+      padding-top: 140px;
+      padding-bottom: 140px;
+  }
+  footer li
+  {
+      list-style: none;
+      Line height:39.55px;
+  }
+  footer ul
+  {
+    padding:25px 0;
+  }
+  footer h2,h4,h6,ul
+  {
+    color: white;
+  }
+  footer h6{
+      padding-top: 30px;
+  }
+  footer h1{
+    font-size: 70px;
+    line-height: 103px;
+    color: #FFFFFF;
+  }
+ @media screen and (max-width:1200px) {
+    .banner h1{
+        font-size: 40px;
+    line-height: 50px;
+    }
+    .more-btn {
+        margin-top: 28px;
+    }
+    .banner-img {
+        width: 400px;
+    }
+    .title h3 {
+        font-weight: 500;
+        font-size: 50px;
+    }
+  }

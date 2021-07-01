@@ -1,0 +1,126 @@
+@font-face {
+    font-family: 'Sailec';
+    src: url('Sailec-Black.woff2') format('woff2'),
+        url('Sailec-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sailec';
+    src: url('Sailec-BoldItalic.woff2') format('woff2'),
+        url('Sailec-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sailec';
+    src: url('Sailec-Bold.woff2') format('woff2'),
+        url('Sailec-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sailec Hairline';
+    src: url('Sailec-HairlineItalic.woff2') format('woff2'),
+        url('Sailec-HairlineItalic.woff') format('woff');
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sailec Hairline';
+    src: url('Sailec-Hairline.woff2') format('woff2'),
+        url('Sailec-Hairline.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sailec';
+    src: url('Sailec-LightItalic.woff2') format('woff2'),
+        url('Sailec-LightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sailec';
+    src: url('Sailec-Light.woff2') format('woff2'),
+        url('Sailec-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sailec';
+    src: url('Sailec-Medium.woff2') format('woff2'),
+        url('Sailec-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sailec';
+    src: url('Sailec-MediumItalic.woff2') format('woff2'),
+        url('Sailec-MediumItalic.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sailec';
+    src: url('Sailec-RegularItalic.woff2') format('woff2'),
+        url('Sailec-RegularItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sailec';
+    src: url('Sailec-ThinItalic.woff2') format('woff2'),
+        url('Sailec-ThinItalic.woff') format('woff');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sailec';
+    src: url('Sailec-Regular.woff2') format('woff2'),
+        url('Sailec-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sailec';
+    src: url('Sailec-Thin.woff2') format('woff2'),
+        url('Sailec-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sailec';
+    src: url('Sailec-BlackItalic.woff2') format('woff2'),
+        url('Sailec-BlackItalic.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
